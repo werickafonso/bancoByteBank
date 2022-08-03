@@ -1,0 +1,15 @@
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\bin\Debug\net6.0\BancoByteBank.exe
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\bin\Debug\net6.0\BancoByteBank.deps.json
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\bin\Debug\net6.0\BancoByteBank.runtimeconfig.json
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\bin\Debug\net6.0\BancoByteBank.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\bin\Debug\net6.0\BancoByteBank.pdb
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.csproj.AssemblyReference.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.AssemblyInfoInputs.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.AssemblyInfo.cs
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\refint\BancoByteBank.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.pdb
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\BancoByteBank.genruntimeconfig.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\BancoByteBank\obj\Debug\net6.0\ref\BancoByteBank.dll
